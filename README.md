@@ -17,7 +17,7 @@ Construido con **React**, **TypeScript**, **Zustand**, **Tailwind CSS** y **Reac
 
 ---
 
-## 🧪 Demo (opcional)
+## 🧪 Demo 
 
 > https://buscadordeimagenes2026.netlify.app/
 
